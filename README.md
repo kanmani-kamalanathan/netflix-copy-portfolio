@@ -1,3 +1,3 @@
 # netflix-copy-portfolio
 
-A project done for the internship at Stige Tech
+A website cloning project done as a part of Trainity (formerly Stige) internship
